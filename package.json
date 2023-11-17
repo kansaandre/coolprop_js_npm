@@ -1,0 +1,25 @@
+{
+  "name": "coolprop_js_npm",
+  "version": "1.0.4",
+  "description": "I don't do Python ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "coolprop_js_npm"
+  },
+  "keywords": [
+    "coolprop",
+    "thermodynamic",
+    "fluid properties",
+    "js",
+    "NodeJS",
+    "javascript",
+    "nodered",
+    "node-red"
+  ],
+  "author": "CoolProp",
+  "license": "MIT"
+}
