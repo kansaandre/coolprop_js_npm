@@ -1,7 +1,7 @@
 {
   "name": "coolprop_js_npm",
-  "version": "1.0.4",
-  "description": "I don't do Python ",
+  "version": "1.1.0",
+  "description": "I don't do Python",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
