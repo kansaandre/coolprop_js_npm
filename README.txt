@@ -2,6 +2,8 @@
 
 CoolProp version 6.5.0 - last updated 21.11.2023
 
+https://www.npmjs.com/package/coolprop_js_npm <-- published to npm
+
 http://www.coolprop.org/coolprop/wrappers/Javascript/index.html --> In this package, we utilize the CoolProp JavaScript wrapper (coolprop.js), enabling the integration and usage of the CoolProp library within JavaScript environments. 
 CoolProp, originally developed in C++, is compiled into WebAssembly bytecode (coolprop.wasm) to ensure compatibility and high performance in web applications.
 
