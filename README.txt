@@ -1,6 +1,6 @@
 ## Credits
 
-CoolProp version 6.5.0 - last updated 21.11.2023
+CoolProp version 6.8.0 - last updated 24.07.2025
 
 https://www.npmjs.com/package/coolprop_js_npm <-- published to npm
 
